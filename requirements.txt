@@ -1,0 +1,4 @@
+python-dotenv
+crewai
+openai
+PyPDF2

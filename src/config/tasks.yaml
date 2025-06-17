@@ -1,0 +1,47 @@
+task_ler_pdf:
+  description: >
+    Extrair o texto bruto do arquivo pdf proposto.
+
+  expected_output: >
+    Um texto bruto extraido pela ferramenta.
+
+  agent: agente_leitor_pdf
+
+
+
+task_analizar_texto:
+  description: >
+    Identificar as informacoes mais importantes do texto e extrair elas.
+
+  expected_output: >
+    Um texto contendo as partes mais relevantes do texto.
+    Topicos sobre cada uma das informacoes mais relevantes, de acordo com o texto extraido.
+
+  agent: agente_analista
+
+
+
+task_resumir_texto:
+  description: >
+    Resumir o texto recebido de uma maneira coesa e encurtando ele um pouco.
+
+  expected_output: >
+    Um texto resumido com qualidade e coerente.
+    O conteudo dos topicos resumidos.
+
+
+  agent: agente_resumo  
+
+
+
+task_formatar_blog:
+  description: >
+    Formate o resumo recebido no estilo de um post de blog que sera postado em uma famosa pagina de blogs.
+
+  expected_output: >
+    Um texto que tenha titulo relevante, subtitulos e uma conclusao final.
+    Um texto sem marcacoes do titulo, subtitulo e conclusao.
+    Um texto que pode ser postado em uma pagina popular de blogs.
+
+
+  agent: agente_blog
