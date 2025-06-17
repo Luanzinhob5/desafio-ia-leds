@@ -11,7 +11,7 @@ class ExtratorDeTexto(BaseTool):
     def _run(self):
         texto = ""
 
-        pdf_dir = os.path.join(os.getcwd(), "pdf_path")
+        pdf_dir = os.path.join(os.getcwd(), "../pdf_path")
 
         if not os.listdir(pdf_dir):
             return "ERRO: A pasta pdf_path nao existe"

@@ -1,6 +1,6 @@
 # CriadorBlog Crew
 
-Este projeto é uma aplicação Python baseada em IA para extração de textos de arquivos PDF, análise de conteúdo, criação de resumos e formatação de blogs. Toda a lógica é baseada na biblioteca **CrewAI**, que organiza os agentes e tarefas de forma orquestrada.
+Este projeto é uma aplicação Python baseada em IA para extração de textos de arquivos PDF, análise de conteúdo, criação de resumos e formatação de blogs. Toda a lógica é baseada na biblioteca **CrewAI**, que organiza os agentes e tarefas de forma orquestrada. Retornando um arquivo do tipo **.md** que pode ser utilizado em um blog.
 
 ## Requisitos
 

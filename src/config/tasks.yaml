@@ -42,6 +42,7 @@ task_formatar_blog:
     Um texto que tenha titulo relevante, subtitulos e uma conclusao final.
     Um texto sem marcacoes do titulo, subtitulo e conclusao.
     Um texto que pode ser postado em uma pagina popular de blogs.
+    Com marcacoes de um arquivo .md, dando enfase aos titulos e subtitulos.
 
 
   agent: agente_blog
