@@ -23,9 +23,9 @@ Este projeto é uma aplicação Python baseada em IA para extração de textos d
 
 ### Pastas obrigatórias
 
-- .env
+- .env (dentro da pasta src)
     - Com a **OPENAI_API_KEY** para utilizar a llm da openai
-- pdf_path 
+- pdf_path (fora da pasta src)
     - Com os pdfs que serão utilizados
 
 
@@ -81,7 +81,7 @@ Resultado: conteúdo final pronto para publicação em um blog.
 
 ## Resultado
 
-O Resultado da crew vai estar disponivel no arquivo **blog.md**, dentro da pasta src.
+O Resultado da crew vai estar disponivel no arquivo **blog.md**, dentro da pasta src. Foi utilizado como exemplo 3 paginas do livro dom casmurro, em pdfs separados.
 
 
 
