@@ -81,7 +81,7 @@ Resultado: conteúdo final pronto para publicação em um blog.
 
 ## Resultado
 
-O Resultado da crew vai estar disponivel no arquivo **blog.md**, dentro da pasta src. Foi utilizado como exemplo 3 paginas do livro dom casmurro, em pdfs separados.
+O Resultado da crew vai estar disponivel no arquivo **blog.md**, dentro da pasta src. Foi utilizado como exemplo 3 paginas do livro dom casmurro, em pdfs separados. Vai ser um arquivo cumprindo os requisitos que cada agente recebe.
 
 
 
